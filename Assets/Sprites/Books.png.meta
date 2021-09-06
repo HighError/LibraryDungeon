@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: f83bab78e08727e48abf767e6b239a9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2052052637465408796
+    second: Books_0
+  - first:
+      213: 7422436841525656152
+    second: Books_1
+  - first:
+      213: -5162872173411795295
+    second: Books_2
+  - first:
+      213: -6339561802444579130
+    second: Books_3
+  - first:
+      213: -5130267182695972985
+    second: Books_4
+  - first:
+      213: 5418371545923641343
+    second: Books_5
+  - first:
+      213: 7224428788446768214
+    second: Books_6
+  - first:
+      213: 1965232858015601868
+    second: Books_7
+  - first:
+      213: 4710378942119259419
+    second: Books_8
+  - first:
+      213: 6815418765336889310
+    second: Books_9
+  - first:
+      213: -364382424172698119
+    second: Books_10
+  - first:
+      213: -3466606233249298922
+    second: Books_11
+  - first:
+      213: -8830022275094564549
+    second: Books_12
+  - first:
+      213: -4012339348729343676
+    second: Books_13
+  - first:
+      213: -284595327833713202
+    second: Books_14
+  - first:
+      213: 5947151547390399118
+    second: Books_15
+  - first:
+      213: 8642581607095267988
+    second: Books_16
+  - first:
+      213: 5574752190740449613
+    second: Books_17
+  - first:
+      213: 1143532239791971346
+    second: Books_18
+  - first:
+      213: -2953582993263187323
+    second: Books_19
+  - first:
+      213: -6641287658679050659
+    second: Books_20
+  - first:
+      213: -1852014045939662771
+    second: Books_21
+  - first:
+      213: -4637515880059312547
+    second: Books_22
+  - first:
+      213: -457326208518300976
+    second: Books_23
+  - first:
+      213: -7283784760440076346
+    second: Books_24
+  - first:
+      213: -1808608112968605574
+    second: Books_25
+  - first:
+      213: 2118752377695925571
+    second: Books_26
+  - first:
+      213: -1051663658940749607
+    second: Books_27
+  - first:
+      213: 8003819365307968491
+    second: Books_28
+  - first:
+      213: 1055692640999831870
+    second: Books_29
+  - first:
+      213: 7277080510796882309
+    second: Books_30
+  - first:
+      213: 8266237456729421285
+    second: Books_31
+  - first:
+      213: 6154041749512971571
+    second: Books_32
+  - first:
+      213: -6207199971578708618
+    second: Books_33
+  - first:
+      213: -280151495921151596
+    second: Books_34
+  - first:
+      213: 4279055984406297969
+    second: Books_35
+  - first:
+      213: -5678750813201695666
+    second: Books_36
+  - first:
+      213: -4395601742006509290
+    second: Books_37
+  - first:
+      213: 4637893176614221141
+    second: Books_38
+  - first:
+      213: 692084436750541931
+    second: Books_39
+  - first:
+      213: 6713907855949306950
+    second: Books_40
+  - first:
+      213: -4713732579044184314
+    second: Books_41
+  - first:
+      213: -7947659052253112990
+    second: Books_42
+  - first:
+      213: 4802042775513752667
+    second: Books_43
+  - first:
+      213: -7402436050256730160
+    second: Books_44
+  - first:
+      213: 988091930679222778
+    second: Books_45
+  - first:
+      213: -3595111751985764471
+    second: Books_46
+  - first:
+      213: 7213154050320503811
+    second: Books_47
+  - first:
+      213: -9016671641536425389
+    second: Books_48
+  - first:
+      213: -7826032158304680178
+    second: Books_49
+  - first:
+      213: 1812615331963915161
+    second: Books_50
+  - first:
+      213: -3619287817703445620
+    second: Books_51
+  - first:
+      213: 5418068314488407317
+    second: Books_52
+  - first:
+      213: -2064107977124304449
+    second: Books_53
+  - first:
+      213: 6239627150520848564
+    second: Books_54
+  - first:
+      213: -2957693460249273848
+    second: Books_55
+  - first:
+      213: -4729100587661677552
+    second: Books_56
+  - first:
+      213: 7550135287688237467
+    second: Books_57
+  - first:
+      213: 1861251344105042267
+    second: Books_58
+  - first:
+      213: 9177974260858304140
+    second: Books_59
+  - first:
+      213: 1479424293216727358
+    second: Books_60
+  - first:
+      213: -8824268823543278353
+    second: Books_61
+  - first:
+      213: 829487380981824693
+    second: Books_62
+  - first:
+      213: -6148018718098641262
+    second: Books_63
+  - first:
+      213: 8904017291424147641
+    second: Books_64
+  - first:
+      213: -345027582855253645
+    second: Books_65
+  - first:
+      213: -706787239862432856
+    second: Books_66
+  - first:
+      213: -4885618885141760537
+    second: Books_67
+  - first:
+      213: -3594824236598242187
+    second: Books_68
+  - first:
+      213: 176587913094504905
+    second: Books_69
+  - first:
+      213: -1077895958033755380
+    second: Books_70
+  - first:
+      213: -5643833182944264896
+    second: Books_71
+  - first:
+      213: 8047306406399516399
+    second: Books_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Books_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d408bb0a9035c46e0800000000000000
+      internalID: -1852014045939662771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea887b9ff4a583e0800000000000000
+      internalID: -2052052637465408796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ab8ea4bfac10760800000000000000
+      internalID: 7422436841525656152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae7a03cc1bc958b0800000000000000
+      internalID: -5162872173411795295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ced7ad012a5508a0800000000000000
+      internalID: -6339561802444579130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
